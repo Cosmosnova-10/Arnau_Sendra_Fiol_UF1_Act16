@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UF1Act16</string>
+    <string name="verd">Verd</string>
+    <string name="vermell">Vermell</string>
+    <string name="blau">Blau</string>
+    <string name="volver">Tornar</string>
+    <string name="_0_255_0">(0, 255, 0)</string>
+    <string name="_255_0_0">(255, 0, 0)</string>
+    <string name="_0_0_255">(0, 0, 255)</string>
+</resources>
